@@ -1,3 +1,8 @@
+
+#intelliJ files and folders
+.iml
+out/
+
 # Compiled class file
 *.class
 
